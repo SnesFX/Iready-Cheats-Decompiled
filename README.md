@@ -2,7 +2,7 @@
  
 * A decompilation of some Iready cheats and shit.
 
-* Note: This decompilation is somewhat useable mainly because I never decompiled javascript code before lmao.
+* Note: This decompilation is somewhat useable mainly because I don't have alot of experience deobfuscating javascript code.
 
 # What's included
 
