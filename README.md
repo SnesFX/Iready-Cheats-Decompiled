@@ -10,7 +10,11 @@
 
 * Nullify 2.0 Bookmarklet Source
 
-* Jmenu/Jvoid/VoidMenu's Bookmarklet source
+* JVoid Menu's Source
+
+* VoidMenu's Lesson Duper
+
+* Void Menu (Coming soon)
 
 # Credits
 
