@@ -24,3 +24,5 @@
 
 * Voidmenu Team - Void Menu
 
+* Shadow Team - Shadow V2
+
