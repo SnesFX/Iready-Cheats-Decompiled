@@ -1,10 +1,8 @@
 # Nullify Decompiled
  
-* A decompilation of that one i-ready cheat.
+* A decompilation of some Iready cheats and shit.
 
-* Note: This decompilation is not compilable/useable mainly because I never decompiled javascript code before lmao.
-
-* Also I didn't add app-18.chunk.js because it's pretty useless lmao.
+* Note: This decompilation is somewhat useable mainly because I never decompiled javascript code before lmao.
 
 # What's included
 
@@ -12,10 +10,13 @@
 
 * Nullify 2.0 Bookmarklet Source
 
-* Jmenu/Jvoid/VoidMenu's Bookmarklet source (find in extras folder)
+* Jmenu/Jvoid/VoidMenu's Bookmarklet source
 
 # Credits
 
 * [SnesFX](https://twitter.com/SnesFX) - Decompilation
 
-* Nullify Team - Original cheat/hack
+* Nullify Team - Nullify cheat/hack
+
+* Voidmenu Team - Void Menu
+
