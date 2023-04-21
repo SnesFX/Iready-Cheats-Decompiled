@@ -12,7 +12,7 @@
 
 * Nullify 2.0 Bookmarklet Source
 
-* -----'s Bookmarklet source (find in extras folder)
+* Jmenu/Jvoid/VoidMenu's Bookmarklet source (find in extras folder)
 
 # Credits
 
