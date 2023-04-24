@@ -1,1 +1,1 @@
-* Just the lesson duper that they released on their discord.
+* Just the lesson duper that VoidMenu released on their discord.
