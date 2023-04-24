@@ -1,4 +1,3 @@
-// Shit was ez asf to deobfuscate lmfao. Get a better obfuscator.
 var _0x517808 = _0x974e;
 function _0x974e(_0x585d00, _0x51ef6a) {
   var _0x232f75 = _0x232f();
@@ -28,3 +27,5 @@ function _0x232f() {
   };
   return _0x232f();
 }
+
+// Shit was ez asf to deobfuscate lmfao. Get a better obfuscator.
