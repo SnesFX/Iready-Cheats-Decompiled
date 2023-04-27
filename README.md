@@ -2,19 +2,21 @@
  
 * A decompilation of some Iready cheats and shit.
 
-* Note: This decompilation is somewhat useable mainly because I don't have alot of experience deobfuscating javascript code.
+* Note: This decompilation is mostly useable. I say mostly mainly because I don't have alot of experience deobfuscating javascript code.
 
 # What's included
 
-* Nullify Extension Source
+* Nullify Extension src
 
-* Nullify 2.0 Bookmarklet Source
+* Nullify 2.0 Bookmarklet src
 
-* JVoid Menu's Source
+* JVoid Menu's src
 
 * VoidMenu's Lesson Duper
 
 * Void Menu (Coming soon)
+
+* Shadow Menu's src
 
 # Credits
 
@@ -24,5 +26,5 @@
 
 * Voidmenu Team - Void Menu
 
-* Shadow Team - Shadow V2
+* Shadow Team - Shadow Menu
 
