@@ -16,7 +16,7 @@
 
 * Void Menu (Coming soon)
 
-* Shadow Menu's src
+* Shadow/North Menu's src
 
 # Credits
 
@@ -26,5 +26,5 @@
 
 * Voidmenu Team - Void Menu
 
-* Shadow Team - Shadow Menu
+* Shadow/North Team - Shadow/North Menu
 
