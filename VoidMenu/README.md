@@ -1,1 +1,1 @@
-Coming whenever they re-release it. I didn't have enough time to get my hands on it.
+Zamn 2.6 moment. (VoidMenu Team if you see this pls don't ban me, I was forced to do this with a gun to my head :ccccc)
