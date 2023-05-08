@@ -18,7 +18,7 @@
 
 * VoidMenu's Lesson Duper
 
-* Void Menu (Coming soon)
+* Void Menu 2.6
 
 * Shadow/North Menu's src
 
