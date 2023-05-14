@@ -1,1 +1,7 @@
-Zamn 2.6 moment. (VoidMenu Team if you see this pls don't ban me, I was forced to do this with a gun to my head :ccccc)
+Zamn 2.6 moment.
+
+
+Update: THEY BANNED MY ASS :skull:
+
+
+![Get Real](https://raw.githubusercontent.com/SnesFX/Iready-Cheats-Decompiled/main/VoidMenu/5dayban.png)
