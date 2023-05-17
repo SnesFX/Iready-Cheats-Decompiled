@@ -2,7 +2,11 @@
  
 * A decompilation of some Iready cheats and shit.
 
-* Note: This decompilation is mostly useable. I say mostly mainly because I don't have alot of experience deobfuscating javascript code.
+# Some Notes
+
+* This decompilation is mostly useable and someone messy. I say mostly mainly because I don't have alot of experience deobfuscating javascript code.
+
+* Don't go fuckin calling me the hard R because the code is messy, read the first note.
 
 # What's included
 
@@ -14,9 +18,10 @@
 
 * VoidMenu's Lesson Duper
 
-* Void Menu (Coming soon)
+* Void Menu 2.6
 
 * Shadow/North Menu's src
+
 
 # Credits
 
