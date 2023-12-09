@@ -7,6 +7,7 @@
 * This decompilation is mostly useable and someone messy. I say mostly mainly because I don't have alot of experience deobfuscating javascript code.
 
 * Don't go fuckin calling me the hard R because the code is messy, read the first note.
+* I used JSNice to rename some variables.
 
 # What's included
 
