@@ -67,8 +67,8 @@ function hideGui() {
     guiExists.style.display = "none";
   }
 }
-document.addEventListener("keydown", function (_0x411216) {
-  if (_0x411216.code == "KeyH" || _0x411216.metaKey) {
+document.addEventListener("keydown", function (detectHpress) {
+  if (detectHpress.code == "KeyH" || detectHpress.metaKey) {
     hideGui();
   }
 });
