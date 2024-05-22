@@ -1,9 +1,9 @@
-chrome.webRequest.onBeforeRequest.addListener(function (_0x36ba1e) {
-  if (_0x36ba1e.url.includes("/app-18.chunk.js")) {
+chrome.webRequest.onBeforeRequest.addListener(function (iReady) {
+  if (iReady.url.includes("/app-18.chunk.js")) {
     return {
       cancel: true
     };
-  } else if (_0x36ba1e.url.includes("trackjs") || _0x36ba1e.url.includes("/logger")) {
+  } else if (iReady.url.includes("trackjs") || iReady.url.includes("/logger")) {
     return {
       cancel: true
     };
