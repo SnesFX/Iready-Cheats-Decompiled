@@ -16,7 +16,7 @@
 
 * jVoid (InterVoid) Menu's src
 
-* VoidMenu's Lesson Duper (patched since you can't open iframes)
+* VoidMenu's Lesson Duper (patched since you can't open lesson iframes anymore, [html5iframe] was the lesson iframe)
 
 * Void Menu 2.6 (doesn't work)
 
