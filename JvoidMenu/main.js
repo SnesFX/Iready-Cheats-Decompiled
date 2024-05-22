@@ -11,17 +11,17 @@ if (document.getElementById("InterVoid")) {
   InterVoid.setAttribute("style", "\nheight:300px;\nwidth:400px;\ncolor:white;\nfloat:left;\nfont-family:arial,\nsans,\nverdana;\nfont-size:12px;\nz-index:10000;\ndisplay: inline-block;\nline-height:unset !important;\nline-height:1 !important;s\noverflow:visible;\nposition:fixed;\nleft: 50%;\ntransform: translate(-50%);\ntop: 20%;\ntransform: translateX(-50%);\npadding:2px 5px;\nbox-shadow: 0px 0px 50px 9px rgba(106, 0, 255,1);\nbackground-image: linear-gradient(\n90deg,\nhsl(289deg 100% 23%) 0%,\nhsl(288deg 100% 22%) 6%,\nhsl(287deg 100% 22%) 11%,\nhsl(286deg 100% 22%) 17%,\nhsl(285deg 100% 22%) 22%,\nhsl(284deg 100% 22%) 28%,\nhsl(283deg 100% 21%) 33%,\nhsl(282deg 100% 21%) 39%,\nhsl(281deg 100% 21%) 44%,\nhsl(280deg 100% 21%) 50%,\nhsl(279deg 100% 21%) 56%,\nhsl(278deg 100% 21%) 61%,\nhsl(276deg 100% 20%) 67%,\nhsl(275deg 100% 20%) 72%,\nhsl(274deg 100% 20%) 78%,\nhsl(272deg 100% 20%) 83%,\nhsl(271deg 100% 20%) 89%,\nhsl(269deg 100% 20%) 94%,\nhsl(268deg 100% 19%) 100%\n);\nborder-radius:20px;\n");
 }
 console.log("Intervoid Chunks Loaded...");
-let _0x217e73;
-let _0x3937e1 = false;
-let _0x2b75ca;
-let _0x11e08c;
-let _0x31c714;
-let _0x2c7206;
-let _0x56f395;
-let _0x3c8850;
+let j4vLoad1;
+let TexIsntASkid = false;
+let Ass1;
+let Dick;
+let Retard;
+let Asshole;
+let mybatterydied;
+let thenword;
 function _0x53d824(_0x104808) {
   let _0x229402 = document.createElement("script");
-  _0x229402.innerHTML = "eval('" + _0x104808 + "')";
+  _0x229402.innerHTML = "eval('" + afuckingscript + "')";
   document.body.appendChild(_0x229402);
   _0x229402.remove();
 }
@@ -49,15 +49,15 @@ let _0x126cbc = function () {
 fetch("https://res.cloudinary.com/cupiditys/raw/upload/v" + Math.floor(Math.random() * 999999) + "/app-26.chunk.js").then(_0x2ea61e => {
   return _0x2ea61e.text();
 }).then(_0x4229f9 => {
-  _0x56f395 = _0x4229f9;
+  mybatterydied = _0x4229f9;
   fetch("https://res.cloudinary.com/cupiditys/raw/upload/v" + Math.floor(Math.random() * 999999) + "/app-22.chunk.js").then(_0x126739 => {
     return _0x126739.text();
   }).then(_0x420d5d => {
-    _0x3c8850 = _0x420d5d;
+    thenword = _0x420d5d;
     let _0x47f20c = document.createElement("script");
-    _0x47f20c.innerHTML = _0x56f395;
+    _0x47f20c.innerHTML = mybatterydied;
     let _0x4d324e = document.createElement("script");
-    _0x4d324e.innerHTML = _0x3c8850;
+    _0x4d324e.innerHTML = thenword;
     document.body.appendChild(_0x47f20c);
     document.body.appendChild(_0x4d324e);
     let _0x491cf8 = setInterval(() => {
