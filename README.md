@@ -28,6 +28,8 @@
 
 * [SnesFX](https://twitter.com/SnesFX) - Decompilation
 
+* [orphanlol](https://github.com/orphanlol) - Legit fixed basically most shit 
+
 * Nullify Team - Nullify cheat/hack
 
 * Voidmenu Team - Void Menu
