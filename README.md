@@ -1,27 +1,28 @@
-# I-ready Cheats Decompiled
+# i-Ready Cheats Decompiled
  
-* A decompilation of some Iready cheats and shit.
+* A decompilation of some i-Ready cheats. All of these are patched because C.A. decided to heavily change how some stuff works.
 
 # Some Notes
 
-* This decompilation is mostly useable and someone messy. I say mostly mainly because I don't have alot of experience deobfuscating javascript code.
-
-* Don't go fuckin calling me the hard R because the code is messy, read the first note.
+* This decompilation is mainly usable and somewhat messy.
+* Used JSNice for some of the weaker obfuscated ones that don't confuse JSNice
+* Used another deobfuscator that's really efficent but it doesn't get some of the names back (not naming here).
 
 # What's included
 
-* Nullify Extension src
+* Nullify extension src
 
-* Nullify 2.0 Bookmarklet src
+* Nullify 2.0 Bookmarklet src (skidded for readability)
 
-* JVoid Menu's src
+* jVoid (InterVoid) Menu's src
 
-* VoidMenu's Lesson Duper
+* VoidMenu's Lesson Duper (patched since you can't open lesson iframes anymore, [html5iframe] was the lesson iframe)
 
-* Void Menu 2.6
+* Void Menu 2.6 (doesn't work)
 
 * Shadow/North Menu's src
 
+* No documentation
 
 # Credits
 
