@@ -38,7 +38,7 @@ function dragElement(e) {
     e.onmousedown = s;
   }
 
-// this skipper no works so has been deleted
+// this skipper no works so has been deleted from existence
   const _ = function () {
     let e = true;
     return function (t, _) {
@@ -79,39 +79,35 @@ function dragElement(e) {
     };
   }();
 // was this dead code?
-  i();
-  let u = 0;
-  let xd = 0;
-  let a = 0;
-  let f = 0;
-  function s(c) {
-    ;
-    (c = c || window.event).preventDefault();
-    a = c.clientX;
-    f = c.clientY;
-    document.onmouseup = l;
-    document.onmousemove = z;
+function dragElement(sex) {
+  var tom = 0;
+  var nword = 0;
+  var ohio = 0;
+  var epstien = 0;
+  function big(sex) {
+    (sex = sex || window.event).preventDefault();
+    ohio = sex.clientX;
+    epstien = sex.clientY;
+    document.onmouseup = sig;
+    document.onmousemove = cemen;
   }
-  function z(e) {
-    ;
-    (e = e || window.event).preventDefault();
-    u = a - e.clientX;
-    xd = f - e.clientY;
-    a = e.clientX;
-    f = e.clientY;
-    c.style.top = c.offsetTop - xd + "px";
-    c.style.left = c.offsetLeft - u + "px";
+  function cemen(sex) {
+    (big = big || window.event).preventDefault();
+    tom = ohio - big.clientX;
+    nword = epstien - slug.clientY;
+    ohio = big.clientX;
+    epstien = big.clientY;
+    sex.style.top = sex.offsetTop - nword + "px";
+    sex.style.left = sex.offsetLeft - tom + "px";
   }
-  function l() {
-    '{}.constructor("return this")( )';
-
+  function sig() {
     document.onmouseup = null;
     document.onmousemove = null;
   }
-  if (document.getElementById(c.id + "header")) {
-    document.getElementById(c.id + "header").onmousedown = s;
+  if (document.getElementById(sex.id + "header")) {
+    document.getElementById(sex.id + "header").onmousedown = slug;
   } else {
-    c.onmousedown = s;
+    sex.onmousedown = slug;
   }
 }
 function hideGUI() {
