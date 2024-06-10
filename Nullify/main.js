@@ -92,29 +92,7 @@ function dragElement(e) {
       _0xa1519f.pause();
     };
   }();
-  const i = _(this, function () {
-    const t = function () {
-      let c;
-      try {
-        c = Function("return (function() {}.constructor(\"return this\")( ));")();
-      } catch (x) {
-        c = window;
-      }
-      return c;
-      _0x40d3e3 = _0x56ea22;
-    };
-    const i = t();
-    const r = i.console = i.console || {};
-    const u = ["log", "warn", "info", "error", "exception", "table", "trace"];
-    for (let n = 0; n < u.length; n++) {
-      const e = _.constructor.prototype.bind(_);
-      const t = u[n];
-      const i = r[t] || e;
-      e.__proto__ = _.bind(_);
-      e.toString = i.toString.bind(i);
-      r[t] = e;
-    }
-  });
+// was this dead code?
   i();
   let u = 0;
   let o = 0;
