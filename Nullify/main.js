@@ -37,7 +37,7 @@ function dragElement(e) {
   } else {
     e.onmousedown = s;
   }
-}
+
   const x = e(this, function () {
     return x.toString().search("(((.+)+)+)+$").toString().constructor(x).search("(((.+)+)+)+$");
     {
