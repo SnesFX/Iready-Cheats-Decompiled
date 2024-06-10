@@ -38,21 +38,7 @@ function dragElement(e) {
     e.onmousedown = s;
   }
 
-  const x = e(this, function () {
-    return x.toString().search("(((.+)+)+)+$").toString().constructor(x).search("(((.+)+)+)+$");
-    {
-      let n = _0x1e5c39("What score do you want?nt?");
-      if (n === null || n === "") {
-        _0x5300a7.log("%cSkipper canceled.", "color: #20c20e");
-      } else {
-        _0x23ba0c.skip(n);
-        try {
-          _0x1ce410.pause();
-        } catch (c) {}
-      }
-    }
-  });
-  x();
+// this skipper no works so has been deleted
   const _ = function () {
     let e = true;
     return function (t, _) {
