@@ -95,7 +95,7 @@ function dragElement(e) {
 // was this dead code?
   i();
   let u = 0;
-  let o = 0;
+  let xd = 0;
   let a = 0;
   let f = 0;
   function s(c) {
@@ -110,10 +110,10 @@ function dragElement(e) {
     ;
     (e = e || window.event).preventDefault();
     u = a - e.clientX;
-    o = f - e.clientY;
+    xd = f - e.clientY;
     a = e.clientX;
     f = e.clientY;
-    c.style.top = c.offsetTop - o + "px";
+    c.style.top = c.offsetTop - xd + "px";
     c.style.left = c.offsetLeft - u + "px";
   }
   function l() {
