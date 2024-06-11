@@ -3,4 +3,6 @@ alert("Lesson duped 3 times.");
 var fg_dfdf_df = document.getElementById("html5Iframe").src;
 open(fg_dfdf_df);
 open(fg_dfdf_df);
-open(fg_dfdf_df); // Shit was ez asf to deobfuscate lmfao. Get a better obfuscator.
+open(fg_dfdf_df); 
+
+// this is actually the original source code found in the voidmenu discord before Rubi (Darian) nuked
