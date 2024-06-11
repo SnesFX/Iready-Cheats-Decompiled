@@ -19,18 +19,18 @@ let Retard;
 let Asshole;
 let mybatterydied;
 let thenword;
-function _0x53d824(_0x104808) {
-  let _0x229402 = document.createElement("script");
-  _0x229402.innerHTML = "eval('" + afuckingscript + "')";
-  document.body.appendChild(_0x229402);
-  _0x229402.remove();
+function gloriusLoading(lemmeHack) {
+  let realHax = document.createElement("script");
+  realHax.innerHTML = "eval('" + afuckingscript + "')";
+  document.body.appendChild(realHax);
+  realHax.remove();
 }
 let _0x126cbc = function () {
   if (window.html5Iframe === undefined || window.html5Iframe === null && window.lessonBridge === undefined || window.lessonBridge === null) {
     alert("Please (FULLY) open a lesson.");
   } else {
     try {
-      _0x53d824("_0x24c87b[\"_0x3611e6\"][\"a25_0x0g16\"]()");
+      gloriusLoading("_0x24c87b[\"_0x3611e6\"][\"a25_0x0g16\"]()");
       let _0x4af5ea = setInterval(() => {
         if (document.body.textContent.includes("Something's wrong. Tap the green arrow button or ask your teacher for help.")) {
           clearInterval(_0x4af5ea);
@@ -46,29 +46,8 @@ let _0x126cbc = function () {
     }
   }
 };
-fetch("https://res.cloudinary.com/cupiditys/raw/upload/v" + Math.floor(Math.random() * 999999) + "/app-26.chunk.js").then(_0x2ea61e => {
-  return _0x2ea61e.text();
-}).then(_0x4229f9 => {
-  mybatterydied = _0x4229f9;
-  fetch("https://res.cloudinary.com/cupiditys/raw/upload/v" + Math.floor(Math.random() * 999999) + "/app-22.chunk.js").then(_0x126739 => {
-    return _0x126739.text();
-  }).then(_0x420d5d => {
-    thenword = _0x420d5d;
-    let _0x47f20c = document.createElement("script");
-    _0x47f20c.innerHTML = mybatterydied;
-    let _0x4d324e = document.createElement("script");
-    _0x4d324e.innerHTML = thenword;
-    document.body.appendChild(_0x47f20c);
-    document.body.appendChild(_0x4d324e);
-    let _0x491cf8 = setInterval(() => {
-      if (document.readyState === "complete") {
-        _0x47f20c.remove();
-        _0x4d324e.remove();
-        clearInterval(_0x491cf8);
-      }
-    }, 100);
-  });
-});
+// remove app chunk using cupid cloudinary thing due to it being really gay to find
+
 document.getElementById("skipper").onclick = _0x126cbc;
 document.getElementById("backgrch").onclick = backcrown;
 document.getElementById("mins").onclick = minsp;
