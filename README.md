@@ -7,10 +7,11 @@
 * This decompilation is mainly usable and somewhat messy.
 * Used JSNice for some of the weaker obfuscated ones that don't confuse JSNice
 * Used another deobfuscator that's really efficent but it doesn't get some of the names back (not naming here).
+* Nullify 6.9 contains lots of dead code, and a skipper that caused a headache. There's 2 dragElements, and the menu won't drag anyway, so it's just stuck there. It works kind of
 
 # What's included
 
-* Nullify extension src
+* Nullify 'extension' src
 
 * Nullify 2.0 Bookmarklet src (skidded for readability)
 
@@ -22,7 +23,9 @@
 
 * Shadow/North Menu's src
 
-* No documentation
+* DevHaxx
+  
+* Sapphire will not be included here.
 
 # Credits
 
