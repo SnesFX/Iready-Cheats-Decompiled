@@ -74,35 +74,35 @@ document.getElementById("backgrch").onclick = backcrown;
 document.getElementById("mins").onclick = minsp;
 document.getElementById("close").onclick = closemenu;
 dragElement(document.getElementById("InterVoid"));
-function dragElement(_0x376b99) {
-  var _0x51cb84 = 0;
-  var _0x467ae7 = 0;
-  var _0xa277f6 = 0;
-  var _0x3dbde9 = 0;
-  function _0x673e3(_0x469171) {
-    (_0x469171 = _0x469171 || window.event).preventDefault();
-    _0xa277f6 = _0x469171.clientX;
-    _0x3dbde9 = _0x469171.clientY;
-    document.onmouseup = _0x408b04;
-    document.onmousemove = _0x1d9b15;
+function dragElement(e) {
+  var t = 0;
+  var n = 0;
+  var o = 0;
+  var r = 0;
+  function s(e) {
+    (e = e || window.event).preventDefault();
+    o = e.clientX;
+    r = e.clientY;
+    document.onmouseup = i;
+    document.onmousemove = c;
   }
-  function _0x1d9b15(_0x4ece77) {
-    (_0x4ece77 = _0x4ece77 || window.event).preventDefault();
-    _0x51cb84 = _0xa277f6 - _0x4ece77.clientX;
-    _0x467ae7 = _0x3dbde9 - _0x4ece77.clientY;
-    _0xa277f6 = _0x4ece77.clientX;
-    _0x3dbde9 = _0x4ece77.clientY;
-    _0x376b99.style.top = _0x376b99.offsetTop - _0x467ae7 + "px";
-    _0x376b99.style.left = _0x376b99.offsetLeft - _0x51cb84 + "px";
+  function c(s) {
+    (s = s || window.event).preventDefault();
+    t = o - s.clientX;
+    n = r - s.clientY;
+    o = s.clientX;
+    r = s.clientY;
+    e.style.top = e.offsetTop - n + "px";
+    e.style.left = e.offsetLeft - t + "px";
   }
-  function _0x408b04() {
+  function i() {
     document.onmouseup = null;
     document.onmousemove = null;
   }
-  if (document.getElementById(_0x376b99.id + "header")) {
-    document.getElementById(_0x376b99.id + "header").onmousedown = _0x673e3;
+  if (document.getElementById(e.id + "header")) {
+    document.getElementById(e.id + "header").onmousedown = s;
   } else {
-    _0x376b99.onmousedown = _0x673e3;
+    e.onmousedown = s;
   }
 }
 ;
@@ -218,35 +218,35 @@ var more2 = document.createElement("div");
 more2.innerHTML = "<div id=\"morre\" style=\"width:140px; left: 1px; top: 1px; background-color: black; color: white; outline: transparent 1px; position:absolute; z-index: 99999; border-radius: 10px;font-family:arial,sans,verdana;background-image: linear-gradient( 115deg, hsl(253deg 100% 10%) 0%, hsl(259deg 94% 10%) 11%, hsl(263deg 90% 11%) 22%, hsl(267deg 87% 11%) 33%, hsl(271deg 85% 11%) 44%, hsl(276deg 86% 12%) 56%, hsl(280deg 88% 12%) 67%, hsl(285deg 91% 12%) 78%, hsl(289deg 95% 12%) 89%, hsl(292deg 100% 12%) 100% ); box-shadow: 0px 0px 30px 5px rgba(119, 0, 255,1),0px 0px 15px 17px rgba(119, 100, 255,0.5);padding: 10px;left: 20%;transform: translate(-50%);top: 50%;transform: translateX(-50%);\">\n<style>\n/* hi tonic garo */\n.midl {\ntext-align: center;\n}\n\n.bu3 {\ncolor:white;\nbackground:transparent;\nborder:none;\nfont-size:12px;\nwidth: 120px;\nheight:30px;\nborder-radius:10px;\nfont-family: sans-serif;\ntransition: all 1s;\nfont-weight:bold;\n}\n\n.bu3:hover {\ncolor:#9000ff;\nfont-size:14px;\nbackground-color:white;\n}\n\n</style>\n<div id=\"more4\" class=\"midl\">\n<h1 class=\"title\" style=\"font-family: sans-serif;\">Extras</h1>\n<hr class=\"hr\">\n\n<button class=\"bu3\" id=\"coinz\"><img src=\"https://login.i-ready.com/favicon.ico\" width=\"15px\">Change Coins</button>\n\n<button class=\"bu3\" id=\"namez\"><img src=\"https://login.i-ready.com/favicon.ico\" width=\"15px\">Change Name</button>\n\n<button class=\"bu3\" id=\"fics\"><img src=\"https://login.i-ready.com/favicon.ico\" width=\"15px\">Fix Lesson</button>\n\n<button class=\"bu3\" id=\"dupe\"><img src=\"https://login.i-ready.com/favicon.ico\" width=\"15px\">Dupe Lesson</button>\n\n<button class=\"bu3\" id=\"leslink\"><img src=\"https://login.i-ready.com/favicon.ico\" width=\"15px\">Lesson Link</button>\n\n<button class=\"bu3\" id=\"gamefree\"><img src=\"https://login.i-ready.com/favicon.ico\" width=\"15px\">Free games</button>\n\n</div>\n</div>";
 document.body.appendChild(more2);
 dragElement(document.getElementById("morre"));
-function dragElement(_0x1ce728) {
-  var _0x507527 = 0;
-  var _0x75580b = 0;
-  var _0x374b53 = 0;
-  var _0x52b259 = 0;
-  function _0x250dd8(_0x10838e) {
-    (_0x10838e = _0x10838e || window.event).preventDefault();
-    _0x374b53 = _0x10838e.clientX;
-    _0x52b259 = _0x10838e.clientY;
-    document.onmouseup = _0x3377bb;
-    document.onmousemove = _0x40cfe7;
+function dragElement(e) {
+  var t = 0;
+  var n = 0;
+  var o = 0;
+  var r = 0;
+  function s(e) {
+    (e = e || window.event).preventDefault();
+    o = e.clientX;
+    r = e.clientY;
+    document.onmouseup = i;
+    document.onmousemove = c;
   }
-  function _0x40cfe7(_0x221383) {
-    (_0x221383 = _0x221383 || window.event).preventDefault();
-    _0x507527 = _0x374b53 - _0x221383.clientX;
-    _0x75580b = _0x52b259 - _0x221383.clientY;
-    _0x374b53 = _0x221383.clientX;
-    _0x52b259 = _0x221383.clientY;
-    _0x1ce728.style.top = _0x1ce728.offsetTop - _0x75580b + "px";
-    _0x1ce728.style.left = _0x1ce728.offsetLeft - _0x507527 + "px";
+  function c(s) {
+    (s = s || window.event).preventDefault();
+    t = o - s.clientX;
+    n = r - s.clientY;
+    o = s.clientX;
+    r = s.clientY;
+    e.style.top = e.offsetTop - n + "px";
+    e.style.left = e.offsetLeft - t + "px";
   }
-  function _0x3377bb() {
+  function i() {
     document.onmouseup = null;
     document.onmousemove = null;
   }
-  if (document.getElementById(_0x1ce728.id + "header")) {
-    document.getElementById(_0x1ce728.id + "header").onmousedown = _0x250dd8;
+  if (document.getElementById(e.id + "header")) {
+    document.getElementById(e.id + "header").onmousedown = s;
   } else {
-    _0x1ce728.onmousedown = _0x250dd8;
+    e.onmousedown = s;
   }
 }
 ;
