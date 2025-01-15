@@ -1,7 +1,7 @@
 # i-Ready Cheats Decompiled
 
 * A decompilation of some i-Ready cheats. 
-** All of these are patched. You can attempt to look at how they work. **
+**All of these are patched. You can attempt to look at how they work.**
 
 # Some Notes
 
